@@ -19,7 +19,7 @@ This repository contains starter and final code for each chapter of the "Advance
 
 ## Links
 
-- [Course Content](MAKE SURE TO ADD LINK HERE ONCE WE PUBLISH THE COURSE)
+- [Course Content](https://renado.gitbook.io/astar-course)
 - [Live Demo](https://www.astarandfriends.io/)
 - [Final App Repository](https://github.com/renadope/astar-and-friends)
 
