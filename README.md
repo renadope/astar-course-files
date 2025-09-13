@@ -19,7 +19,7 @@ This repository contains starter and final code for each chapter of the "Advance
 
 ## Links
 
-- [Course Content](https://renado.gitbook.io/astar-course)
+- [Course Content](https://renado.gitbook.io/advanced-react-pathfinding)
 - [Live Demo](https://www.astarandfriends.io/)
 - [Final App Repository](https://github.com/renadope/astar-and-friends)
 
